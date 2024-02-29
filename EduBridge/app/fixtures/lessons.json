@@ -1,0 +1,20 @@
+[
+  {
+    "model": "app.lesson",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "title": "Python",
+      "video_url": "https://example.com/python"
+    }
+  },
+  {
+    "model": "app.lesson",
+    "pk": 2,
+    "fields": {
+      "product": 2,
+      "title": "Django",
+      "video_url": "https://example.com/django"
+    }
+  }
+]

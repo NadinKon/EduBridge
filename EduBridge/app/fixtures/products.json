@@ -1,0 +1,22 @@
+[
+  {
+    "model": "app.product",
+    "pk": 1,
+    "fields": {
+      "creator": 1,
+      "name": "Python",
+      "start_datetime": "2024-01-01T00:00:00Z",
+      "cost": "99.99"
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 2,
+    "fields": {
+      "creator": 2,
+      "name": "Django",
+      "start_datetime": "2024-02-01T00:00:00Z",
+      "cost": "199.99"
+    }
+  }
+]

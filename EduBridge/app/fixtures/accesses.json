@@ -1,0 +1,20 @@
+[
+  {
+    "model": "app.access",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "product": 1,
+      "access_granted_date": "2023-12-01"
+    }
+  },
+  {
+    "model": "app.access",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "product": 2,
+      "access_granted_date": "2023-12-15"
+    }
+  }
+]
